@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErfanMowlaei
+- 👋 Hi, I’m Erfan Mowlaei
 - 👀 I’m interested in ML, DL, and computational genomics
 - 📫 You can reach me via my email: tul67492@temple.edu
 
